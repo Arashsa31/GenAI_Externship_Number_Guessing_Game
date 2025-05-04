@@ -1,1 +1,1 @@
-# GenAI_Externship_Number_Guessing_Game
+This Python project is a number guessing game where the user tries to guess a randomly generated number between 1 and 100. The game gives feedback after each guess and counts the number of attempts, with an optional 10-guess limit for added challenge.
